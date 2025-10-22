@@ -7,7 +7,9 @@ This repository presents a chronological timeline of events documented by a form
 This repository presents a chronological timeline of events documented by a former employee of GitHub, Inc. (a Microsoft subsidiary). The purpose is to serve as a neutral, evidence-based case study for professionals in tech, HR, and corporate governance. All information is presented as-is from contemporaneous records.
 
 ## Executive Summary
-This case involves a Project Manager who was hired on March 19, 2024, had their role dissolved days later, and was subsequently subjected to a documented pattern of managerial retaliation, disability discrimination, and HR neglect, culminating in termination four days into approved FMLA leave. The following timeline is supported by primary source evidence.
+This case involves a Project Manager (going forward to be referred to as 'PM') who was hired on March 19, 2024, had their role dissolved days later, and was subsequently subjected to a documented pattern of managerial (the direct manager was a Director in the department and going forward to be referred to as 'DIR')going forward to be referred to as 'PM') retaliation, disability discrimination, and HR neglect, culminating in termination four days into approved FMLA leave. 
+<br>
+The following timeline is supported by primary source evidence.
 
 ## Timeline of Key Events & Evidence
 
