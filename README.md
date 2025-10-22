@@ -11,7 +11,7 @@ This case involves a Project Manager who was hired on March 19, 2024, had their 
 
 ## Timeline of Key Events & Evidence
 
-### 1. ⚠️ Role Dissolution & Failure to Onboard
+### 1.  [Chapter 1: ⚠️ Role Dissolution & Failure to Onboard](https://github.com/denydelaydefend/github-microsoft-hr-failure-case-study-2025/issues/1)
 *   **Date:** March 22, 2024
 *   **Issue:** Employee's role was dissolved three days after start date. No new job description, training, or defined success metrics were provided, setting them up for failure.
 *   **Exhibit A:**  <img width="1185" height="389" alt="image" src="https://github.com/user-attachments/assets/fbef5df6-30b0-43bb-92cd-0371e8529959" />
