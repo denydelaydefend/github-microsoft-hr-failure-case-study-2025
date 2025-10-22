@@ -7,20 +7,19 @@ This repository presents a chronological timeline of events documented by a form
 This repository presents a chronological timeline of events documented by a former employee of GitHub, Inc. (a Microsoft subsidiary). The purpose is to serve as a neutral, evidence-based case study for professionals in tech, HR, and corporate governance. All information is presented as-is from contemporaneous records.
 
 ## Executive Summary
-This case involves a Project Manager (going forward to be referred to as 'PM') who was hired on March 19, 2024, had their role dissolved days later, and was subsequently subjected to a documented pattern of managerial (the direct manager was a Director in the department and going forward to be referred to as 'DIR')going forward to be referred to as 'PM') retaliation, disability discrimination, and HR neglect, culminating in termination four days into approved FMLA leave. 
+This case involves a Project Manager (going forward to be referred to as 'PM') who was hired on March 19, 2024, had their role dissolved days later, and was subsequently subjected to a documented pattern of managerial (the direct manager was a Director in the department and going forward to be referred to as 'DIR') retaliation, disability discrimination, and HR neglect, culminating in termination four days into approved FMLA leave. 
 <br>
 The following timeline is supported by primary source evidence.
 
 ## Timeline of Key Events & Evidence
 
-### 1.  [Chapter 1: ⚠️ Role Dissolution & Failure to Onboard](https://github.com/denydelaydefend/github-microsoft-hr-failure-case-study-2025/issues/1)
+### 1.  [Chapter 1: ⚠️ Role Dissolution & Failure to Onboard - Excellence Delivered Nonetheless✨](https://github.com/denydelaydefend/github-microsoft-hr-failure-case-study-2025/issues/1)
 *   **Date:** March 22, 2024
-*   **Issue:** Employee's role was dissolved three days after start date. No new job description, training, or defined success metrics were provided, setting them up for failure.
-*   **Exhibit A:**  <img width="1185" height="389" alt="image" src="https://github.com/user-attachments/assets/fbef5df6-30b0-43bb-92cd-0371e8529959" />
-
-    *   <b>Impact:</b> Evidence of instability from Day 1.
+*   **Issue:** Employee's role was dissolved three days after start date. No new job description, training, or defined success metrics were provided, setting them up for failure. Despite the active detriment and neglect, PM scales insurmountable odds and performs with customized execution and is recognized and honored for skill and demanor.
+*   **Exhibit A:**  
+    *   <b>Impact:</b> Evidence of instability from Day 1. Evidence of performance: Peer reviews, DIR reviews (up until formal negative feedback), Sparkle Recognition, Received Awards & Nominations
       
-### 2.🔦 Pattern of Managerial Neglect & Inconsistent Communication
+### 2.[Chapter 2: 🔦 Pattern of Managerial Neglect & Inconsistent Communication](https://github.com/denydelaydefend/github-microsoft-hr-failure-case-study-2025/issues/2)
 *   **Dates:** March 2024 - February 2025
 *   **Issue:** Direct manager consistently canceled 1:1s, provided contradictory instructions, and failed to provide timely feedback, creating operational chaos.
 *   **Exhibit B:**
