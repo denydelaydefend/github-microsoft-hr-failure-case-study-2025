@@ -62,7 +62,20 @@ The following timeline is supported by primary source evidence. Each chapter pro
 
 
 ## Conclusion 🤦🏼‍♀️ 📢❗🚨
-#### This repository illustrates a failure of managerial conduct, HR safeguards, and corporate accountability. It is published as a cautionary tale and a case study for the industry - these corporations do not care about your humanity and their systems are a front - they will use you, abuse you and then gaslight you saying it wasn't so. I know there's been a myriad of wreckage with Github's layoff non-policy/procedure (no coherent thought given, names submitted by leadership based on who gave them warm fuzzies to stay and those who they didn't like to be fired). Detailed in these issues is about 10% of the story - as the saying goes, there are always three versions: yours, mine and the truth. Moreover, 10% is also the amount of documentation shared versus what exists and is available as the situation so permits. 
+#### This repository illustrates a failure of managerial conduct, HR safeguards, and corporate accountability. The events tell an explicit story:
+1. Github tried to harm an employee physically
+2. Github ignored this employee when they begged for help
+3. Github forced this employee out and then fired them
+4. Github tried to trick this employee into signing away their rights
+5. When the employee didn't fall for it and went to the government, Github tried to sabotage the employee's government case
+6. Now, Github is stealing the employee's wages, and has done so in excess of eight months, all time spent dealing with the mess Github created. 
+<br>
+It is published as a cautionary tale and a case study for the industry - these corporations do not care about your humanity and their systems are a front - they will use you, abuse you and then gaslight you saying it wasn't so. 
+
+
+I know there's been a myriad of wreckage with Github's layoff non-policy/procedure (no coherent thought given, names submitted by leadership based on who gave them warm fuzzies to stay and those who they didn't like to be fired). 
+
+Detailed in these issues is about 10% of the story - as the saying goes, there are always three versions: yours, mine and the truth. Moreover, 10% is also the amount of documentation shared versus what exists and is available as the situation so permits. 
 
 ---
 *This repository was last updated on {October 24th, 2025}.*
